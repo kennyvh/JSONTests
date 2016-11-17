@@ -1,0 +1,9 @@
+{
+ "CPU" : 2,
+ "DOMAINFQDN" : "testdomain.local",
+ "ENVIRONMENT" : "DVL",
+ "IPADDRESS" : "10.134.8.22",
+ "MEMORYGB" : 4,
+ "VMNAME" : "testVMPRD01"
+
+}
