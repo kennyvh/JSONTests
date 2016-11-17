@@ -2,7 +2,7 @@
  "CPU" : 20,
  "DOMAINFQDN" : "testdomain2.local",
  "ENVIRONNMENT" : "PRD",
- "IPADRESS" : "10.134.8.22",
+ "IPADRESS" : "10.134.800.22",
  "MEMORYGB" : 6,
  "VMNAME" : "testVM"
 
