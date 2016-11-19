@@ -4,6 +4,6 @@
  "ENVIRONMENT" : "DVL",
  "IPADDRESS" : "10.134.8.22",
  "MEMORYGB" : 4,
- "VMNAME" : "testVMPRD01"
+ "VMNAME" : "testVMDVL01"
 
 }
